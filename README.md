@@ -5,9 +5,9 @@
   Hi there 👋  
   ```
   
-  [![fpalaciosFM's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpalaciosFM&theme=tokyonight&layout=compact)](https://github.com/fpalaciosFM/github-readme-stats)
+  [![fpalaciosFM's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpalaciosFM&theme=tokyonight&layout=compact&count_private=true)](https://github.com/fpalaciosFM/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpalaciosFM&theme=tokyonight&langs_count=10&hide=PostScript&layout=compact)](https://github.com/fpalaciosFM/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpalaciosFM&theme=tokyonight&langs_count=10&hide=PostScript&layout=compact&count_private=true)](https://github.com/fpalaciosFM/github-readme-stats)
   
 </div>   
 <!--
