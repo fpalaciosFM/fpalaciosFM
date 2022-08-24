@@ -1,8 +1,14 @@
-### Hi there 👋
+
 <div align="center">
-  ![fpalaciosFM's github stats](https://github-readme-stats.vercel.app/api?username=fpalaciosFM&count_private=true&show_icons=true&theme=dracula)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpalaciosFM&theme=dracula&layout=compact)](https://github.com/fpalaciosFM/github-readme-stats)
+  ```
+  Hi there 👋  
+  ```
+  
+  [![fpalaciosFM's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpalaciosFM&theme=tokyonight&layout=compact)](https://github.com/fpalaciosFM/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fpalaciosFM&theme=tokyonight&layout=compact)](https://github.com/fpalaciosFM/github-readme-stats)
+  
 </div>   
 <!--
 **fpalaciosFM/fpalaciosFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
